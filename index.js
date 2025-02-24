@@ -22,7 +22,7 @@ async function buscarDados() {
       buttonElement.appendChild(ancoraElement);
       ancoraElement.textContent = "Comprar";
       ancoraElement.href =
-        "https://api.whatsapp.com/send?l=pt_br&phone=5551997407434";
+        "https://api.whatsapp.com/send?l=pt_br&phone=000000000000";
 
       liElement.appendChild(titleh2Element);
       liElement.appendChild(imgElement);
